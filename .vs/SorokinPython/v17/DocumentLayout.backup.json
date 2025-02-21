@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tatiana\\source\\repos\\SorokinPython\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBCE5627-CE04-48B6-A10B-FA89CCB94379}|SorokinPython\\SorokinPython.pyproj|C:\\Users\\Tatiana\\source\\repos\\SorokinPython\\SorokinPython\\SorokinPython.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FBCE5627-CE04-48B6-A10B-FA89CCB94379}|SorokinPython\\SorokinPython.pyproj|solutionrelative:SorokinPython\\SorokinPython.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SorokinPython.py",
+              "DocumentMoniker": "C:\\Users\\Tatiana\\source\\repos\\SorokinPython\\SorokinPython\\SorokinPython.py",
+              "RelativeDocumentMoniker": "SorokinPython\\SorokinPython.py",
+              "ToolTip": "C:\\Users\\Tatiana\\source\\repos\\SorokinPython\\SorokinPython\\SorokinPython.py*",
+              "RelativeToolTip": "SorokinPython\\SorokinPython.py*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-18T14:18:19.147Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
